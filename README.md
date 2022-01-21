@@ -1,4 +1,4 @@
-#### Hi there! 👋  I’m a Junior Software Engineer with a background in Marketing and Arts Programming.
+### Hi there! 👋  I’m a Junior Software Engineer with a background in Marketing and Arts Programming.
 
 :hammer_and_wrench: &nbsp; At the moment, I’m working on a Wordle clone and practicing my JavaScript on Codewars.
 <br/> :mortar_board: &nbsp; I recently completed the Software Engineering Immersive course at General Assembly.
