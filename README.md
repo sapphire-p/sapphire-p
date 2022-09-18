@@ -5,7 +5,6 @@
 <br/> :seedling: &nbsp; I’m currently seeking a Junior developer role.
 <br/> :art: &nbsp; Previously, I worked as a marketing strategist, curator and arts professional.
 <br/> :performing_arts: &nbsp; I love listening to podcasts, checking out exhibitions, playing boardgames and laughing at live comedy.
-<br/> :eyes: &nbsp; You can check out my portfolio [here](https://sapphire-p.github.io/portfolio/).
 <br/> :mailbox: &nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/sapphire-paston/).
 
 <!--
